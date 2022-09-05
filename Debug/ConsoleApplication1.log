@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+C:\csci133\ConsoleApplication1\ConsoleApplication1.cpp(82,7): warning C4101: 'code': unreferenced local variable
+C:\csci133\ConsoleApplication1\ConsoleApplication1.cpp(115,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\csci133\ConsoleApplication1\ConsoleApplication1.cpp(126,22): warning C4018: '<': signed/unsigned mismatch
+C:\csci133\ConsoleApplication1\ConsoleApplication1.cpp(199,20): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication1.vcxproj -> C:\csci133\ConsoleApplication1\Debug\ConsoleApplication1.exe
